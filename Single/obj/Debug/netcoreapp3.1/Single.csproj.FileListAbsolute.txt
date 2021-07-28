@@ -1,0 +1,13 @@
+C:\Users\dthomas\source\repos\Single\Single\bin\Debug\netcoreapp3.1\Single.exe
+C:\Users\dthomas\source\repos\Single\Single\bin\Debug\netcoreapp3.1\Single.deps.json
+C:\Users\dthomas\source\repos\Single\Single\bin\Debug\netcoreapp3.1\Single.runtimeconfig.json
+C:\Users\dthomas\source\repos\Single\Single\bin\Debug\netcoreapp3.1\Single.runtimeconfig.dev.json
+C:\Users\dthomas\source\repos\Single\Single\bin\Debug\netcoreapp3.1\Single.dll
+C:\Users\dthomas\source\repos\Single\Single\bin\Debug\netcoreapp3.1\Single.pdb
+C:\Users\dthomas\source\repos\Single\Single\obj\Debug\netcoreapp3.1\Single.csprojAssemblyReference.cache
+C:\Users\dthomas\source\repos\Single\Single\obj\Debug\netcoreapp3.1\Single.AssemblyInfoInputs.cache
+C:\Users\dthomas\source\repos\Single\Single\obj\Debug\netcoreapp3.1\Single.AssemblyInfo.cs
+C:\Users\dthomas\source\repos\Single\Single\obj\Debug\netcoreapp3.1\Single.csproj.CoreCompileInputs.cache
+C:\Users\dthomas\source\repos\Single\Single\obj\Debug\netcoreapp3.1\Single.dll
+C:\Users\dthomas\source\repos\Single\Single\obj\Debug\netcoreapp3.1\Single.pdb
+C:\Users\dthomas\source\repos\Single\Single\obj\Debug\netcoreapp3.1\Single.genruntimeconfig.cache
