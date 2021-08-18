@@ -1,6 +1,8 @@
-﻿using System;
+﻿using Newtonsoft.Json;
+using System;
 using System.Collections.Generic;
 using System.Linq;
+using System.Text.Json.Serialization;
 
 namespace Single
 {
@@ -35,12 +37,36 @@ namespace Single
                 //There is no 10 so it beings back a null (0)
                 Console.WriteLine(nums.FirstOrDefault(n => n == 10));
 
+                //returns 5
+                Console.WriteLine(nums.Find(n => n == 5));
+
+                //returns System.Collections.Generic.List`1[System.Int32]
+                Console.WriteLine(nums.FindAll(n => n == 9));
+
+                //9 9
+                Console.WriteLine(string.Join(" ", nums.FindAll(n => n == 9)));
+
+                //41
+                Console.WriteLine(nums.Sum());
+
+                //false - what is this lol 
+                Console.WriteLine(string.IsNullOrEmpty(nums.Where(n => n < 2).ToString()));
+
+                //1 3
+                Console.WriteLine(string.Join(" ", nums.Where(n => n < 4)));
+
+                // 0
+                Console.WriteLine(nums.SingleOrDefault(n => n == 7));
+
+                //json
+                Console.WriteLine(JsonConvert.SerializeObject(nums));
+
+
             }
             catch (Exception e)
             {
                 Console.WriteLine(e);
             }
-
         }
     }
 }
